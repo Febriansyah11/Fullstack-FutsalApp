@@ -1,0 +1,9 @@
+.card{
+    width: 18rem;
+    height: fit-content;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 8px;
+    margin: 0 20px;
+    float: left;
+    flex-direction:column;
+}

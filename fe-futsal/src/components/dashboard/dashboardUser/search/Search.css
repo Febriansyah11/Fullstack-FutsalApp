@@ -1,0 +1,17 @@
+.search {
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+    align-items: center;
+}
+
+.text-search {
+    font-family: "Times New Roman";
+    font-size: 20px;
+
+}
+.input-group.md-form.form-sm.form-2 input {
+    border: 1px solid #bdbdbd;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+}

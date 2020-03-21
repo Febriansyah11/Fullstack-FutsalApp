@@ -1,0 +1,15 @@
+.Chat {
+    text-align: center;
+    display: flex;
+    /*background-image: url("../../../../assets/field/field1.jpg");*/
+    background-size: cover;
+}
+.chat-header {
+    padding : 5;
+    background: #1c45ef;
+    background-image: -moz-linear-gradient(to left, #74ebd5, #9face6);
+    background-image: -ms-linear-gradient(to left, #74ebd5, #9face6);
+    background-image: -o-linear-gradient(to left, #74ebd5, #9face6);
+    background-image: -webkit-linear-gradient(to left, #74ebd5, #9face6);
+    background-image: linear-gradient(to left, #74ebd5, #9face6);
+}

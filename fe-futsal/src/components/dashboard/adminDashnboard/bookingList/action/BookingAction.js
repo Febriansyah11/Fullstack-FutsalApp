@@ -1,0 +1,1 @@
+export const fetchBooking = {type: 'FETCH_BOOKING_LIST'}

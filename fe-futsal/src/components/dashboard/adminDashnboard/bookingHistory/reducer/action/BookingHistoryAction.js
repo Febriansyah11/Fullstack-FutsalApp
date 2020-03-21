@@ -1,0 +1,1 @@
+export const FETCH_PAYMENTS_SUCCESS = {type: 'FETCH_PAYMENTS_SUCCESS'};
